@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+See my new project!
+https://www.moneychangecalculator.uk/
+
+See my blog!
+https://nepcodex.com/
