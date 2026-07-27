@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Try my new CyberChef's like project for Post Quantum Cryptography Algorithms!
+https://latticeforge.nepcodex.com/
+
 See my new project!
 https://www.moneychangecalculator.uk/
 
