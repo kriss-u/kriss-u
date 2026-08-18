@@ -1,25 +1,12 @@
 ### Hi there 👋
 
-<!--
-**kriss-u/kriss-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools for learning and experimenting with complex technical topics like quantum computing and cryptography.
 
-Here are some ideas to get you started:
+Check out my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[QisLearn](https://github.com/kriss-u/QisLearn)**: Interactive educational website for learning quantum computing with Qiskit, built on PyAST. [Live](https://qislearn.nepcodex.com/)
+- **[PyAST](https://github.com/kriss-u/py-ast)**: A TypeScript library that parses Python in the browser. [Playground](https://pyast.nepcodex.com/)
+- **[LatticeForge](https://github.com/kriss-u/latticeforge)**: A playground for exploring post quantum cryptography. [Live](https://latticeforge.nepcodex.com/)
+- **BreakMyChange**: An educational tool for breaking down money denomination. [Live](https://www.moneychangecalculator.uk/)
 
-Try my new CyberChef's like project for Post Quantum Cryptography Algorithms!
-https://latticeforge.nepcodex.com/
-
-See my new project!
-https://www.moneychangecalculator.uk/
-
-See my blog!
-https://nepcodex.com/
+[Read my blog](https://nepcodex.com/)
