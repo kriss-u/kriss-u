@@ -4,6 +4,7 @@ I build tools for learning and experimenting with complex technical topics like 
 
 Check out my projects:
 
+- **[QisPlay](https://github.com/kriss-u/QisPlay)**: Browser environment for playing with qiskit and qiskit aer. [Live](https://qisplay.nepcodex.com/)
 - **[QisLearn](https://github.com/kriss-u/QisLearn)**: Interactive educational website for learning quantum computing with Qiskit, built on PyAST. [Live](https://qislearn.nepcodex.com/)
 - **[PyAST](https://github.com/kriss-u/py-ast)**: A TypeScript library that parses Python in the browser. [Playground](https://pyast.nepcodex.com/)
 - **[LatticeForge](https://github.com/kriss-u/latticeforge)**: A playground for exploring post quantum cryptography. [Live](https://latticeforge.nepcodex.com/)
